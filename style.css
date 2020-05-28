@@ -1,7 +1,7 @@
 
 body{
 	
-	background-image:url("images/bodyImg.png");
+	background-image:url("bodyImg.png");
 	background-repeat:no-repeat;
 	background-position:top;
 	background-size:500px 400px;
@@ -91,7 +91,7 @@ section{
 	
 	margin:100px 165px 100px 95px;
 	height:600px;
-	background-image:url("images/main3.jpg"),url("images/main2.png");
+	background-image:url("main3.jpg"),url("main2.png");
 	background-repeat:no-repeat,no-repeat;
 	background-position: center left, center right;
 	background-size:300px 500px,300px 500px;
