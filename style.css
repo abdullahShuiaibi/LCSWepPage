@@ -344,7 +344,7 @@ footer #footer_div{
 	
 	margin:150px 120px 100px 95px;
 	height:600px;
-	background-image:url("images/main3.jpg"),url("images/main2.png");
+	background-image:url("main3.jpg"),url("main2.png");
 	background-repeat:no-repeat,no-repeat;
 	background-position: center left, center right;
 	background-size:200px 400px,200px 400px;
